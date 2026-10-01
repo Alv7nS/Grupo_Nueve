@@ -18,7 +18,9 @@ Projeto Mobile 2026 -App (Grupo Nuevé)
 ---
 
 ## Descrição do Projeto
-Desenvolvimento de uma aplicação móvel focada em **Mobile Ethnography / Diary Studies**, permitindo que investigadores criem e gerenciem estudos de campo, e que os participantes registem diários com notas de texto, áudio, imagens e vídeos.
+Plataforma inteligente de Upcycling têxtil e comércio de moda sustentável.
+A **Nuevé ReWare** é um projeto multidisciplinar desenvolvido da Licenciatura em Engenharia Informática no IADE.
+A plataforma promove a economia circular ao permitir que utilizadores doem peças de vestuário sem uso para reaproveitamento dos seus tecidos. 
 
 ---
 
