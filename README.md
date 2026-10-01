@@ -1,23 +1,24 @@
 # Grupo_Nueve
 Projeto Mobile 2026 -App (Grupo Nuevé)
 
-**Grupo:** Nuevé  
+**Nome do Projeto:** Nuevé ReWare
+**Grupo:** G03
 **Curso:** Licenciatura em Engenharia Informática (L-EI)  
 **Instituição:** IADE / Universidade Europeia  
 **Ano Letivo:** 2026/2027 (3º Semestre)  
 
 ---
 
-## 📌 Descrição do Projeto
-Desenvolvimento de uma aplicação móvel focada em **Mobile Ethnography / Diary Studies**, permitindo que investigadores criem e gerenciem estudos de campo, e que os participantes registem diários com notas de texto, áudio, imagens e vídeos.
-
----
-
-## 👥 Elementos do Grupo (Nuevé)
+## Elementos do Grupo (Nuevé)
 * Alvin Alexandre Sacramento Dias dos Santos - 20251280
 * Eurica Nelma Brado Costa  - 20251534
 * Cristiane Idalécia Neto Paciência - 20252623
 * Wesley Tiago Simão Chipango - 20251556 
+
+---
+
+## Descrição do Projeto
+Desenvolvimento de uma aplicação móvel focada em **Mobile Ethnography / Diary Studies**, permitindo que investigadores criem e gerenciem estudos de campo, e que os participantes registem diários com notas de texto, áudio, imagens e vídeos.
 
 ---
 
