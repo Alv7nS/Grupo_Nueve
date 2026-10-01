@@ -38,7 +38,7 @@ O repositório segue a estrutura oficial do briefing:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Mobile App:** Ex: Flutter / React Native / Kotlin
 * **Backend:** Ex: Node.js / Firebase / Spring Boot
 * **Base de Dados:** Ex: PostgreSQL / MongoDB / SQLite
