@@ -3,7 +3,7 @@ Projeto Mobile 2026 -App (Grupo Nuevé)
 
 **Grupo:** Nuevé  
 **Curso:** Licenciatura em Engenharia Informática (L-EI)  
-**Instituição:** VADE / Universidade Europeia  
+**Instituição:** IADE / Universidade Europeia  
 **Ano Letivo:** 2026/2027 (3º Semestre)  
 
 ---
