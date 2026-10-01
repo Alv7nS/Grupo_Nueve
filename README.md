@@ -22,7 +22,7 @@ Desenvolvimento de uma aplicação móvel focada em **Mobile Ethnography / Diary
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 O repositório segue a estrutura oficial do briefing:
 
 * `00_Identificacao/` — Ficheiro `info.md` com os metadados do projeto.
