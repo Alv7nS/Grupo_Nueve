@@ -169,21 +169,23 @@ ________________________________________
 
 # Cronograma de Desenvolvimento — Nuevé
 
+# Cronograma de Desenvolvimento — Nuevé
+
 | Tarefas / Fases | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Planeamento e Requisitos | | | | | | | | | | | | | | |
-| Pesquisa de mercado e Público-Alvo | | | | | | | | | | | | | | |
-| Guiões e casos de Utilização | | | | | | | | | | | | | | |
-| Mockups e Protótipo Figma | | | | | | | | | | | | | | |
-| Modelo ER e Base de Dados | | | | | | | | | | | | | | |
-| Desenvolvimento do Backend/API REST | | | | | | | | | | | | | | |
-| Desenvolvimento da App Flutter | | | | | | | | | | | | | | |
-| Integração App + API + BD | | | | | | | | | | | | | | |
-| QR Code e localização | | | | | | | | | | | | | | |
-| Testes e usabilidade | | | | | | | | | | | | | | |
-| Correção e melhorias | | | | | | | | | | | | | | |
-| Documentação final | | | | | | | | | | | | | | |
-| Apresentação e Preparação Final | | | | | | | | | | | | | | |
+| Planeamento e Requisitos | 🟦 | 🟦 | | | | | | | | | | | | |
+| Pesquisa de mercado e Público-Alvo | | 🟧 | 🟧 | | | | | | | | | | | |
+| Guiões e casos de Utilização | | | 🟦 | 🟦 | | | | | | | | | | |
+| Mockups e Protótipo Figma | | | | 🟧 | 🟧 | 🟧 | | | | | | | | |
+| Modelo ER e Base de Dados | | | | | 🟦 | 🟦 | | | | | | | | |
+| Desenvolvimento do Backend/API REST | | | | | | 🟧 | 🟧 | 🟧 | 🟧 | | | | | |
+| Desenvolvimento da App Flutter | | | | | | | 🟦 | 🟦 | 🟦 | 🟦 | | | | |
+| Integração App+API+BD | | | | | | | | | 🟧 | 🟧 | | | | |
+| QR Code e localização | | | | | | | | | | 🟦 | 🟦 | | | | |
+| Testes e usabilidade | | | | | | | | | | | 🟧 | 🟧 | | | |
+| Correção e melhorias | | | | | | | | | | | | 🟦 | 🟦 | |
+| Documentação final | | | | | | | | | | | | | 🟧 | 🟧 |
+| Apresentação e Preparação Final | | | | | | | | | | | | | | 🟦 |
     
 ________________________________________
 
