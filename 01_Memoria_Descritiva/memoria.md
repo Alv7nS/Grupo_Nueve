@@ -22,22 +22,45 @@ ________________________________________
   	**3.Escassez de Peças Exclusivas e Sustentáveis a Preços Acessíveis:** Os consumidores conscientes procuram vestuário com identidade única e pegada ecológica reduzida, mas encontram pouca oferta transparente no mercado.
 
 ________________________________________
-3.	Objetivos e Motivação
+4.	Objetivos e Motivação
    
-    O objetivo deste projeto é desenvolver uma aplicação móvel de Mobile Ethnography / Diary Studies que permita:
-•	À equipa de investigação da Nuevé criar e gerir estudos de mercado e testes de vestuário em contexto real de uso.
-•	Aos clientes/participantes registar as suas experiências e hábitos diários através de múltiplos formatos multimédia.
+    ***Objetivos Principais***
+  	
+•  Desenvolver uma aplicação móvel multiplataforma (Flutter/Dart) intuitiva e funcional para doação e compra de vestuário sustentável.
+
+•  Implementar um servidor web backend em Node.js suportado pela arquitetura REST para gestão eficiente de utilizadores, submissões de peças e pedidos de compra.
+
+• Projetar e modelar uma Base de Dados relacional em MySQL para assegurar a persistência dos dados de artigos, estados de triagem e histórico de transações.
+
+• Reduzir os custos de produção de matéria-prima têxtil através do reaproveitamento direto de tecidos doados.
+
+• Garantir a conformidade total no tratamento de dados pessoais segundo o RGPD.
+
+***Motivação***
+
+A motivação do grupo assenta na oportunidade de aplicar de forma integrada os conhecimentos adquiridos em Programação de Dispositivos Móveis, Bases de Dados, Redes e Comunicação de Dados, Interfaces e Usabilidade e Matemática Discreta. Pretende-se criar um produto tecnológico real que promova hábitos de consumo sustentáveis e demonstre a viabilidade económica da economia circular na tecnologia móvel.
+
 ________________________________________
-4.	Público-Alvo
+5.	Público-Alvo
    
-•	Investigadores / Designers da Nuevé: Profissionais de R&D, Design de Moda e Qualidade Têxtil que criam e acompanham os estudos.
-•	Participantes / Clientes: Utilizadores das peças de vestuário selecionados para fornecer feedback em diários contínuos.
+•	**Cedentes / Doadores de roupa:** Pessoas de todas as idades que possuem vestuário sem uso em casa e procuram uma solução ecológica e conveniente para lhes dar utilidade, em vez do descarte.
+
+•	Compradores / Consumidores de moda sustentável.
+
+• **Gestores e Artesãos da Marca (Utilizadores Internos/Administração):** Equipa técnica encarregue de avaliar as fotografias enviadas, gerir o inventário de tecidos recebidos e publicar os novos produtos no catálogo da loja.
 ________________________________________
-5.	Pesquisa de Mercado (Análise Comparativa)
+6.	Pesquisa de Mercado (Análise Comparativa)
    
-    Análise de plataformas existentes no mercado de Diary Studies e Mobile Ethnography (como dscout, Indeemo e EthnoHub):
-•	Pontos Fortes: Facilidade na submissão multimédia e acompanhamento em tempo real.
-•	Oportunidade / Diferencial da Nuevé: Criação de uma solução integrada para testes têxteis e vestuário, associada diretamente à recolha de feedback de durabilidade, lavagem e conforto das peças.
+| Aplicação / Plataforma | Pontos Fortes | Pontos Fracos / Limitações | Diferencial do ReFabric |
+| :--- | :--- | :--- | :--- |
+| **Vinted / OLX** | Grande volume de utilizadores e facilidade de venda direta C2C. | Não resolve o problema do tecido estragado/sem valor comercial; sem processo de transformação industrial. | O ReFabric aceita peças para desconstrução de tecidos e criação de peças totalmente novas. |
+| **Too Good To Go** | Excelente modelo de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização ao setor da moda e vestuário. |
+| **Humana / Contentores Têxteis** | Recolha direta de vestuário em pontos físicos. | Falta de transparência; o doador não sabe o destino final nem o impacto do seu gesto. | Rastreabilidade total: a app mostra que novas peças foram criadas a partir do tecido doado. |
+   
+  
+
+
+
 ________________________________________
 6.	Levantamento Inicial de Requisitos
    
