@@ -49,17 +49,15 @@ ________________________________________
 
 • **Gestores e Artesãos da Marca (Utilizadores Internos/Administração):** Equipa técnica encarregue de avaliar as fotografias enviadas, gerir o inventário de tecidos recebidos e publicar os novos produtos no catálogo da loja.
 ________________________________________
-6.	Pesquisa de Mercado (Análise Comparativa)
-   
-| Aplicação / Plataforma | Pontos Fortes | Pontos Fracos / Limitações | Diferencial do ReFabric |
+ 6. Pesquisa de Mercado (Análise Comparativa)
+
+| Aplicação / Plataforma | Pontos Fortes | Pontos Fracos | Diferencial do ReFabric |
 | :--- | :--- | :--- | :--- |
-| **Vinted / OLX** | Grande volume de utilizadores e facilidade de venda direta.| Não resolve o problema do tecido estragado/sem valor comercial; sem processo de transformação industrial. | O ReFabric aceita peças para desconstrução de tecidos e criação de peças totalmente novas. |
-| **Too Good To Go** | Excelente modelo de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização ao setor da moda e vestuário. |
-| **Humana / Contentores Têxteis** | Recolha direta de vestuário em pontos físicos. | Falta de transparência; o doador não sabe o destino final nem o impacto do seu gesto. | Rastreabilidade total: a app mostra que novas peças foram criadas a partir do tecido doado. |
+| **Vinted / OLX** | Grande volume de utilizadores e compra/venda direta C2C. | Não aproveita roupa estragada ou sem valor comercial direto. | Aceita peças danificadas para desconstrução de tecidos e criação de coleções novas. |
+| **Too Good To Go** | Modelo eficaz de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização de recursos ao vestuário e moda. |
+| **Humana / Contentores** | Recolha direta de têxteis em pontos físicos. | Baixa transparência sobre o destino final das peças doadas. | Rastreabilidade total: o doador acompanha as novas peças criadas com o seu tecido. |
    
   
-
-
 
 ________________________________________
 6.	Levantamento Inicial de Requisitos
