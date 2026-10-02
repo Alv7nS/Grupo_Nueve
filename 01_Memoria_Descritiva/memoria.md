@@ -53,8 +53,7 @@ ________________________________________
    
 | Aplicação / Plataforma | Pontos Fortes | Pontos Fracos / Limitações | Diferencial do ReFabric |
 | :--- | :--- | :--- | :--- |
-| **Vinted / OLX** | Grande volume de utilizadores e facilidade de venda direta.
-| Não resolve o problema do tecido estragado/sem valor comercial; sem processo de transformação industrial. | O ReFabric aceita peças para desconstrução de tecidos e criação de peças totalmente novas. |
+| **Vinted / OLX** | Grande volume de utilizadores e facilidade de venda direta.| Não resolve o problema do tecido estragado/sem valor comercial; sem processo de transformação industrial. | O ReFabric aceita peças para desconstrução de tecidos e criação de peças totalmente novas. |
 | **Too Good To Go** | Excelente modelo de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização ao setor da moda e vestuário. |
 | **Humana / Contentores Têxteis** | Recolha direta de vestuário em pontos físicos. | Falta de transparência; o doador não sabe o destino final nem o impacto do seu gesto. | Rastreabilidade total: a app mostra que novas peças foram criadas a partir do tecido doado. |
    
