@@ -13,7 +13,7 @@ Identificação do projecto
 -------------------------------------------------
 5. Unidade(s) curricular(es): Projecto de desenvolvimento mobile
 -------------------------------------------------
-6. Docente(s): Pedro Rosa
+6. Docente(s): Fabio Guilherme, Nathan Campos, Pedro Rosa, João Monge, Miguel Boavida, Paula Neves, André Torcato, Ricardo Sousa.
 -------------------------------------------------
 7. Estudantes participantes:  
    * Alvin Alexandre S Dias Dos Santos (20251280)
