@@ -8,7 +8,7 @@ ________________________________________
 ________________________________________
 3.	Objetivos e Motivação
    
-O objetivo deste projeto é desenvolver uma aplicação móvel de Mobile Ethnography / Diary Studies que permita:
+    O objetivo deste projeto é desenvolver uma aplicação móvel de Mobile Ethnography / Diary Studies que permita:
 •	À equipa de investigação da Nuevé criar e gerir estudos de mercado e testes de vestuário em contexto real de uso.
 •	Aos clientes/participantes registar as suas experiências e hábitos diários através de múltiplos formatos multimédia.
 ________________________________________
@@ -19,7 +19,7 @@ ________________________________________
 ________________________________________
 5.	Pesquisa de Mercado (Análise Comparativa)
    
-Análise de plataformas existentes no mercado de Diary Studies e Mobile Ethnography (como dscout, Indeemo e EthnoHub):
+    Análise de plataformas existentes no mercado de Diary Studies e Mobile Ethnography (como dscout, Indeemo e EthnoHub):
 •	Pontos Fortes: Facilidade na submissão multimédia e acompanhamento em tempo real.
 •	Oportunidade / Diferencial da Nuevé: Criação de uma solução integrada para testes têxteis e vestuário, associada diretamente à recolha de feedback de durabilidade, lavagem e conforto das peças.
 ________________________________________
@@ -39,7 +39,7 @@ Requisitos Não Funcionais (RNF)
 ________________________________________
 7. Planificação e Calendarização Inicial
    
-O projeto desenvolve-se ao longo do semestre com a seguinte distribuição temporal:
+    O projeto desenvolve-se ao longo do semestre com a seguinte distribuição temporal:
 •	Fase 1 (Atual): Análise de requisitos, definição do problema, mockups e arquitetura inicial.
 •	Fase 2: Desenvolvimento do protótipo funcional (frontend e backend), implementação da base de dados e API.
 •	Fase 3: Testes de usabilidade, otimizações, elaboração do relatório final, poster e demonstração em vídeo.
