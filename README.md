@@ -1,5 +1,5 @@
 # Grupo_Nueve
-Projeto Mobile 2026 -App (Grupo Nuevé)
+Projecto Mobile 2026 -App (Grupo Nuevé)
 
 **Nome do Projeto:** Nuevé ReWare
 **Grupo:** G03
