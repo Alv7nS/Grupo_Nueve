@@ -43,11 +43,15 @@ A motivação do grupo assenta na oportunidade de aplicar de forma integrada os 
 ________________________________________
 5.	Público-Alvo
    
-•	**Cedentes / Doadores de roupa:** Pessoas de todas as idades que possuem vestuário sem uso em casa e procuram uma solução ecológica e conveniente para lhes dar utilidade, em vez do descarte.
+O público-alvo da plataforma ReFabric divide-se em dois segmentos principais:
 
-•	Compradores / Consumidores de moda sustentável.
+1. **Cedentes / Doadores de Roupa:**
+   * Pessoas de todas as idades que possuem vestuário sem uso em casa e procuram uma solução ecológica e conveniente para lhes dar utilidade, em vez do descarte.
+2. **Compradores / Consumidores de Moda Sustentável :**
+   * Jovens adultos e adultos (18–45 anos) que valorizam peças de design único, produção ética e redução do impacto ambiental no setor do vestuário.
+3. **Gestores e Artesãos da Marca (Utilizadores Internos/Administração):**
+   * Equipa técnica encarregue de avaliar as fotografias enviadas, gerir o inventário de tecidos recebidos e publicar os novos produtos no catálogo da loja.
 
-• **Gestores e Artesãos da Marca (Utilizadores Internos/Administração):** Equipa técnica encarregue de avaliar as fotografias enviadas, gerir o inventário de tecidos recebidos e publicar os novos produtos no catálogo da loja.
 ________________________________________
  6. Pesquisa de Mercado (Análise Comparativa)
     
@@ -144,6 +148,16 @@ A solução NuevéReWare é composta por uma aplicação móvel para utilizadore
 * **Backend:** Node.js, framework Express.js.
 * **Base de Dados:** MySQL (Relacional).
 * **Gestão de Versões e Controlo de Projeto:** Git, GitHub, GitHub Projects.
+
+---
+
+### iv. Enquadramento nas Unidades Curriculares
+
+* **Programação de Dispositivos Móveis (60% Av.):** Desenvolvimento da interface do utilizador, gestão de estados, navegação e integração com sensores móveis (câmara e GPS) em **Flutter/Dart**.
+* **Bases de Dados (50% Av.):** Desenho do modelo Entidade-Relação, implementação do esquema físico em **MySQL** e execução de queries otimizadas (`create.sql`, `populate.sql`, `queries.sql`).
+* **Redes e Comunicação de Dados (10% Av.):** Estruturação da arquitetura Cliente-Servidor, integração da app com a API REST através do protocolo HTTP/HTTPS e manipulação de objetos JSON.
+* **Interfaces e Usabilidade (60% Av.):** Investigação de utilizador, arquitetura de informação, criação de *Design System* no **Figma**, avaliação heurística e testes de usabilidade.
+* **Matemática Discreta (20% Av.):** Implementação de método numérico (ex.: algoritmo de ordenação/otimização de rotas ou simulação na estimativa de desperdício têxtil evitado) e análise estatística de dados na app.
 
 ---
 
