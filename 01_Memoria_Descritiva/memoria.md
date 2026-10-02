@@ -206,8 +206,14 @@ ________________________________________
     A proposta Nuevé ReWare apresenta uma abordagem sólida e inovadora para responder ao problema do desperdício têxtil, aplicando os conceitos técnicos de Engenharia Informática exigidos no 3.º semestre.
 
 Com a conclusão da 1.ª Entrega, o grupo assegura o alinhamento conceptual da equipa, a definição clara dos requisitos técnicos e a calendarização rigorosa do projeto. Os próximos passos focam-se na estruturação da base de dados relacional e no desenvolvimento do servidor REST e do protótipo funcional para a 2.ª Entrega.
+
 ________________________________________
-11. Bibliografia
+11. Mockup feito no Figma
+
+Nosso Mockup disponível em : <https://www.figma.com/proto/wHsidw3Zp5Ly885REkCP52/Nuev%C3%A9-ReWare?node-id=3-7528&t=XbcvYFccUlbtVsew-1>
+
+________________________________________
+12. Bibliografia
     
 1. BOCOUP. *Documenting Your API*. Disponível em: <https://bocoup.com/blog/documenting-your-api>. Acesso em: 2026.
 2. FLUTTER DOCS. *Flutter Documentation - Build apps for any screen*. Disponível em: <https://docs.flutter.dev/>. Acesso em: 2026.
