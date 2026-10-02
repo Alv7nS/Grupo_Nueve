@@ -1,10 +1,22 @@
-1.	Caracterização da Empresa NuevéReware
+1.	Identificação do projeto NuevéReware
    
-	Caracterização da Empresa Nuevé A NuevéReware é uma empresa Luso-angolana especializada no design, produção industrial e comercialização de vestuário masculino e feminino, com forte aposta no comércio eletrónico (e-commerce) e na sustentabilidade têxtil, sediada num Campus empresarial em Entre Campos, Lisboa.
+O **NuevéReWare** consiste numa solução móvel e plataforma web orientada à economia circular no setor têxtil. O sistema integra a recolha de vestuário descartado por particulares e a posterior desconstrução e reciclagem desses tecidos para o fabrico de vestuário exclusivo (masculino e feminino), comercializado diretamente no catálogo e loja virtual da aplicação.
 ________________________________________
-2.	Descrição Geral e Problema
-   
-	Para otimizar o desenvolvimento de novas coleções e garantir padrões elevados de conforto, vestibilidade e durabilidade, o departamento de Design de Moda e R&D Têxtil da Nuevé necessita de recolher dados reais sobre a utilização quotidiana das suas peças de vestuário. Os métodos tradicionais de inquéritos pós-compra falham em captar a experiência contínua e contextualizada do cliente.
+2.	Palavras-Chave
+   Upcycling Têxtil, Moda sustentável, Economia circular, Aplicação Móvel, Flutter, REST API, Reconhecimnento de imagem, validação por QR Code.
+
+________________________________________
+
+3.	Descrição Geral e Problema a resolver
+
+  	 ***Descrição da App***
+  	A Nuevé ReWare é uma plataforma e aplicação móvel multidisciplinar que operacionaliza um modelo de economia circular no setor da moda. A aplicação permite que os utilizadores se desfaçam de peças de vestuário sem uso, submetendo fotografias e detalhes sobre o estado dos tecidos. A equipa de produção da marca analisa o potencial de reaproveitamento do material e, após a recolha/receção física, desconstrução e higienização, reutiliza as matérias-primas têxteis para criar novas peças de vestuário exclusivas (masculinas e femininas), comercializadas diretamente no catálogo integrado da aplicação.
+
+	***Problema a resolver***
+  	**1. Impacto Ambiental da Fast Fashion e Desperdício Têxtil:** Milhares de toneladas de roupa em bom estado ou com tecidos aproveitáveis terminam em aterros sanitários devido à ausência de canais simples para o seu reaproveitamento direto.
+  	**2.Custo Elevado de Matérias-Primas Têxteis Sustentáveis:** Marcas de moda ecológica enfrentam custos elevados na aquisição de tecidos reciclados ou orgânicos.
+  	**3.Escassez de Peças Exclusivas e Sustentáveis a Preços Acessíveis:** Os consumidores conscientes procuram vestuário com identidade única e pegada ecológica reduzida, mas encontram pouca oferta transparente no mercado.
+
 ________________________________________
 3.	Objetivos e Motivação
    
