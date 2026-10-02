@@ -3,7 +3,7 @@
 O **NuevéReWare** consiste numa solução móvel e plataforma web orientada à economia circular no setor têxtil. O sistema integra a recolha de vestuário descartado por particulares e a posterior desconstrução e reciclagem desses tecidos para o fabrico de vestuário exclusivo (masculino e feminino), comercializado diretamente no catálogo e loja virtual da aplicação.
 ________________________________________
 2.	Palavras-Chave
-   Upcycling Têxtil, Moda sustentável, Economia circular, Aplicação Móvel, Flutter, REST API, Reconhecimnento de imagem, validação por QR Code.
+Upcycling Têxtil, Moda sustentável, Economia circular, Aplicação Móvel, Flutter, REST API, Reconhecimnento de imagem, validação por QR Code.
 
 ________________________________________
 
