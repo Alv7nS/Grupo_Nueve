@@ -53,31 +53,114 @@ ________________________________________
 
 | Aplicação / Plataforma | Pontos Fortes | Pontos Fracos | Diferencial do ReFabric |
 | :--- | :--- | :--- | :--- |
-| **Vinted / OLX** | Grande volume de utilizadores e compra/venda direta C2C. | Não aproveita roupa estragada ou sem valor comercial direto. | Aceita peças danificadas para desconstrução de tecidos e criação de coleções novas. |
+| **Vinted / OLX** | Grande volume de utilizadores e compra/venda direta . | Não aproveita roupa estragada ou sem valor comercial direto. | Aceita peças danificadas para desconstrução de tecidos e criação de coleções novas. |
 | **Too Good To Go** | Modelo eficaz de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização de recursos ao vestuário e moda. |
 | **Humana / Contentores** | Recolha direta de têxteis em pontos físicos. | Baixa transparência sobre o destino final das peças doadas. | Rastreabilidade total: o doador acompanha as novas peças criadas com o seu tecido. |
    
-  
-
 ________________________________________
-6.	Levantamento Inicial de Requisitos
+7.	Casos de utilização e guiões de teste
    
-Requisitos Funcionais (RF)
-•	RF01 (Investigador): Criar e gerir estudos etnográficos e atribuir tarefas diárias.
-•	RF02 (Investigador): Acompanhar o progresso dos participantes através de um dashboard.
-•	RF03 (Participante): Submeter entradas de diário em formato de texto, imagem, áudio e vídeo.
-•	RF04 (Participante): Receber notificações e lembretes para o preenchimento de tarefas.
-•	RF05 (Geral): Sistema de autenticação e gestão de perfil de utilizador.
+   ***Caso de Utilização 2: Triagem e Validação da Peça (Painel de Gestão***
+• **Ator Principal:** Gestor / Administrador.
 
-Requisitos Não Funcionais (RNF)
-•	RNF01: Interface intuitiva e adaptada a dispositivos móveis (Android e iOS).
-•	RNF02: Segurança no armazenamento dos dados multimédia dos participantes.
-•	RNF03: Comunicação via REST API com o backend do sistema.
+• **Descrição:** A equipa técnica avalia a viabilidade de reaproveitamento do tecido enviado.
+
+• **Guião de Teste Passo a Passo:**
+
+1. O gestor acede à área administrativa da aplicação e consulta a lista de pedidos em Pendente_Avaliacao.
+   
+2. Seleciona o registo e analisa as fotografias e especificações submetidas.
+   
+3. Caso o tecido seja adequado, o gestor clica em "Aprovar Peça", definindo o ponto de recolha mais próximo ou gerando uma guia de envio.
+   
+4. A aplicação atualiza o estado para Aprovado na base de dados e envia uma notificação push ao doador com as instruções de entrega.
+   
+**Caso de Utilização 3: Validação da Entrega Física via QR Code**
+
+• Ator Principal: Doador e Operador do Ponto de Recolha
+
+• Descrição: Validação presencial e em tempo real da entrega física da peça no ponto de recolha.
+
+• **Guião de Teste Passo a Passo:**
+
+1. O doador desloca-se ao ponto de recolha parceiro e seleciona o pedido aprovado na app.
+
+2. A aplicação gera um QR Code único de validação no ecrã do doador.
+   
+3.O operador do ponto de recolha lê o código através do scanner de QR Code da aplicação.
+
+4. A API valida a autenticidade do código, altera o estado para Entregue e atribui pontos de recompensa/desconto ao perfil do doador.
+
 ________________________________________
-7. Planificação e Calendarização Inicial
+ 8. Descrição da Solução a Implementar
+
+### i. Descrição Genérica da Solução
+A solução NuevéReWare é composta por uma aplicação móvel para utilizadores finais e gestores, suportada por uma arquitetura em nuvem com API REST intermediária e uma base de dados relacional centralizada.
+
+```text
++-------------------------------------------------------+
+|                 APLICAÇÃO MÓVEL                       |
+|               (Flutter / Dart / UI)                   |
++---------------------------+---------------------------+
+                            |
+                 HTTP / REST API (JSON)
+                            |
++---------------------------v---------------------------+
+|               SERVIDOR BACKEND (REST API)             |
+|                 (Node.js / Express)                   |
++---------------------------+---------------------------+
+                            |
+                     SQL / Driver MySQL
+                            |
++---------------------------v---------------------------+
+|                 BASE DE DADOS MYSQL                   |
+|           (Modelo Relacional Centralizado)            |
++-------------------------------------------------------+
+```
+
+---
+
+### ii. Requisitos Técnicos do Projecto
+
+#### Requisitos Funcionais (RF)
+* **RF01:** Permitir registo e autenticação segura de utilizadores (Doador, Cliente e Administrador).
+* **RF02:** Permitir a captura e envio de imagens através da câmara do dispositivo móvel.
+* **RF03:** Disponibilizar um catálogo interativo de peças de vestuário reciclado (masculino/feminino) com filtros por tamanho, categoria e preço.
+* **RF04:** Gerar e ler QR Codes para validação de entregas presenciais.
+* **RF05:** Calcular e apresentar pontos/descontos acumulados por doações efetuadas.
+
+#### Requisitos Não-Funcionais (RNF)
+* **RNF01 (Desempenho):** O tempo de resposta da API REST não deve ultrapassar 2 segundos para operações de leitura.
+* **RNF02 (Segurança):** Cumprimento das diretivas do **RGPD**; encriptação de palavras-passe com *hash* seguro.
+* **RNF03 (Usabilidade):** Interface responsiva, acessível e desenvolvida segundo os princípios do *Material Design*.
+* **RNF04 (Portabilidade):** Compatibilidade com dispositivos Android e iOS através do *framework* Flutter.
+
+---
+
+### iii. Arquitetura da Solução e Tecnologias
+* **Design/Prototipagem:** Figma.
+* **Frontend Mobile:** Flutter, linguagem Dart.
+* **Backend:** Node.js, framework Express.js.
+* **Base de Dados:** MySQL (Relacional).
+* **Gestão de Versões e Controlo de Projeto:** Git, GitHub, GitHub Projects.
+
+---
+
+________________________________________
+9. Planificação e Calendarização Inicial
    
     O projeto desenvolve-se ao longo do semestre com a seguinte distribuição temporal:
+   
 •	Fase 1 (Atual): Análise de requisitos, definição do problema, mockups e arquitetura inicial.
+
 •	Fase 2: Desenvolvimento do protótipo funcional (frontend e backend), implementação da base de dados e API.
+
 •	Fase 3: Testes de usabilidade, otimizações, elaboração do relatório final, poster e demonstração em vídeo.
+________________________________________
+10. Conclusão e Objetivos a atingir
+    
+    A proposta Nuevé ReWare apresenta uma abordagem sólida e inovadora para responder ao problema do desperdício têxtil, aplicando os conceitos técnicos de Engenharia Informática exigidos no 3.º semestre.
+
+Com a conclusão da 1.ª Entrega, o grupo assegura o alinhamento conceptual da equipa, a definição clara dos requisitos técnicos e a calendarização rigorosa do projeto. Os próximos passos focam-se na estruturação da base de dados relacional e no desenvolvimento do servidor REST e do protótipo funcional para a 2.ª Entrega.
+
 
