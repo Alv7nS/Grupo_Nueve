@@ -1,4 +1,4 @@
-1.	Caracterização da Empresa Nuevé
+1.	Caracterização da Empresa NuevéReware
    
 	Caracterização da Empresa Nuevé A NuevéReware é uma empresa Luso-angolana especializada no design, produção industrial e comercialização de vestuário masculino e feminino, com forte aposta no comércio eletrónico (e-commerce) e na sustentabilidade têxtil, sediada num Campus empresarial em Entre Campos, Lisboa.
 ________________________________________
