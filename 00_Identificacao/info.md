@@ -37,8 +37,11 @@ Base de Dados.
 •  MySQL - Relacional para guardar utilizadores, submissões de doações, estados das peças, catálogo e vendas
 
 **Módulos Móveis Específicos:**
+
 •  Câmara / Galeria - Captura de até 3 fotos (frente, verso, etiqueta/tecido)
+
 •  Localização / Mapas (Google Maps) - Identificação de pontos de recolha próximos
+
 •  Notificações Push (FCM - Firebase Cloud Messaging) - Avisa quando a peça é aprovada ou usada numa nova criação
 
 
