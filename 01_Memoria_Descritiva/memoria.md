@@ -50,12 +50,13 @@ ________________________________________
 • **Gestores e Artesãos da Marca (Utilizadores Internos/Administração):** Equipa técnica encarregue de avaliar as fotografias enviadas, gerir o inventário de tecidos recebidos e publicar os novos produtos no catálogo da loja.
 ________________________________________
  6. Pesquisa de Mercado (Análise Comparativa)
-
-| Aplicação / Plataforma | Pontos Fortes | Pontos Fracos | Diferencial do ReFabric |
+    
+| Aplicação / Plataforma | Pontos Fortes | Pontos Fracos / Limitações | Diferencial do ReFabric |
 | :--- | :--- | :--- | :--- |
-| **Vinted / OLX** | Grande volume de utilizadores e compra/venda direta . | Não aproveita roupa estragada ou sem valor comercial direto. | Aceita peças danificadas para desconstrução de tecidos e criação de coleções novas. |
-| **Too Good To Go** | Modelo eficaz de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização de recursos ao vestuário e moda. |
-| **Humana / Contentores** | Recolha direta de têxteis em pontos físicos. | Baixa transparência sobre o destino final das peças doadas. | Rastreabilidade total: o doador acompanha as novas peças criadas com o seu tecido. |
+| **Vinted / OLX** | Grande volume de utilizadores e facilidade de venda direta. | Não resolve o problema do tecido estragado/sem valor comercial; sem processo de transformação industrial. | O Nuevé ReWare aceita peças para desconstrução de tecidos e criação de peças totalmente novas. |
+| **Too Good To Go** | Excelente modelo de economia circular e combate ao desperdício. | Focado exclusivamente no setor alimentar. | Aplica a lógica de resgate e valorização ao setor da moda e vestuário. |
+| **Humana / Contentores Têxteis** | Recolha direta de vestuário em pontos físicos. | Falta de transparência; o doador não sabe o destino final nem o impacto do seu gesto. | Rastreabilidade total: a app mostra que novas peças foram criadas a partir do tecido doado. |
+
    
 ________________________________________
 7.	Casos de utilização e guiões de teste
@@ -148,19 +149,55 @@ A solução NuevéReWare é composta por uma aplicação móvel para utilizadore
 
 ________________________________________
 9. Planificação e Calendarização Inicial
-   
-    O projeto desenvolve-se ao longo do semestre com a seguinte distribuição temporal:
-   
-•	Fase 1 (Atual): Análise de requisitos, definição do problema, mockups e arquitetura inicial.
+   ### Work Breakdown Structure (WBS)
+1. **Fase 1: Análise e Conceptualização (Semanas 1-4)**
+   * 1.1 Levantamento de Requisitos e Casos de Utilização
+   * 1.2 Prototipagem no Figma (Mockups)
+   * 1.3 Elaboração da Proposta de Projeto
+2. **Fase 2: Arquitetura e Protótipo Alfa (Semanas 5-9)**
+   * 2.1 Modelação da Base de Dados MySQL (Modelo ER, `create.sql`, `populate.sql`)
+   * 2.2 Desenvolvimento do Servidor Node.js e Documentação REST
+   * 2.3 Implementação dos Ecrãs Core em Flutter
+3. **Fase 3: Implementação Final e Testes (Semanas 10-14)**
+   * 3.1 Integração completa Cliente-Servidor
+   * 3.2 Testes de Usabilidade e Correção de Bugs
+   * 3.3 Elaboração do Manual do Utilizador, Poster e Vídeo de Demonstração
 
-•	Fase 2: Desenvolvimento do protótipo funcional (frontend e backend), implementação da base de dados e API.
+---
 
-•	Fase 3: Testes de usabilidade, otimizações, elaboração do relatório final, poster e demonstração em vídeo.
+### Calendarização (Gráfico de Gantt Resumido)
+
+# Cronograma de Desenvolvimento — Nuevé
+
+| Tarefas / Fases | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Planeamento e Requisitos | | | | | | | | | | | | | | |
+| Pesquisa de mercado e Público-Alvo | | | | | | | | | | | | | | |
+| Guiões e casos de Utilização | | | | | | | | | | | | | | |
+| Mockups e Protótipo Figma | | | | | | | | | | | | | | |
+| Modelo ER e Base de Dados | | | | | | | | | | | | | | |
+| Desenvolvimento do Backend/API REST | | | | | | | | | | | | | | |
+| Desenvolvimento da App Flutter | | | | | | | | | | | | | | |
+| Integração App + API + BD | | | | | | | | | | | | | | |
+| QR Code e localização | | | | | | | | | | | | | | |
+| Testes e usabilidade | | | | | | | | | | | | | | |
+| Correção e melhorias | | | | | | | | | | | | | | |
+| Documentação final | | | | | | | | | | | | | | |
+| Apresentação e Preparação Final | | | | | | | | | | | | | | |
+    
 ________________________________________
+
 10. Conclusão e Objetivos a atingir
     
     A proposta Nuevé ReWare apresenta uma abordagem sólida e inovadora para responder ao problema do desperdício têxtil, aplicando os conceitos técnicos de Engenharia Informática exigidos no 3.º semestre.
 
 Com a conclusão da 1.ª Entrega, o grupo assegura o alinhamento conceptual da equipa, a definição clara dos requisitos técnicos e a calendarização rigorosa do projeto. Os próximos passos focam-se na estruturação da base de dados relacional e no desenvolvimento do servidor REST e do protótipo funcional para a 2.ª Entrega.
+________________________________________
+11. Bibliografia
+    
+1. BOCOUP. *Documenting Your API*. Disponível em: <https://bocoup.com/blog/documenting-your-api>. Acesso em: 2026.
+2. FLUTTER DOCS. *Flutter Documentation - Build apps for any screen*. Disponível em: <https://docs.flutter.dev/>. Acesso em: 2026.
+3. MYSQL. *MySQL 8.0 Reference Manual*. Oracle, 2026. Disponível em: <https://dev.mysql.com/doc/>.
+4. PRESSMAN, Roger S. *Engenharia de Software: Uma Abordagem Profissional*. 8. ed. McGraw-Hill, 2016.
 
 
