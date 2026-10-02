@@ -29,4 +29,7 @@ Identificação do projecto
 
     
 -------------------------------------------------
-1. Resumo curto (100 a 150 palavras)                 nao esquecer de preencherrrrrrrrrrr
+1. Resumo curto (100 a 150 palavras)
+   O **Nuevé ReWare** é uma aplicação móvel desenvolvida em Flutter, com suporte de backend em Node.js e base de dados MySQL, focada na promoção da economia circular e sustentabilidade no setor têxtil. A plataforma integra dois modelos complementares: permite que os utilizadores doem peças de vestuário em fim de vida ou sem uso para desconstrução e reaproveitamento de tecidos, ao mesmo tempo que disponibiliza uma loja integrada para a comercialização de novas coleções de moda *upcycled* criadas a partir dessa matéria-prima recuperada. 
+
+ Toda a gestão de doações, catálogo de produtos, carrinho de compras e rastreabilidade dos materiais é assegurada por uma arquitetura cliente-servidor assente numa API REST segura. O projeto visa reduzir o desperdício têxtil, sensibilizar para o consumo consciente e oferecer uma solução tecnológica viável para o mercado de moda sustentável.               
