@@ -159,7 +159,7 @@ A solução NuevéReWare é composta por uma aplicação móvel para utilizadore
 * **Interfaces e Usabilidade (60% Av.):** Investigação de utilizador, arquitetura de informação, criação de *Design System* no **Figma**, avaliação heurística e testes de usabilidade.
 * **Matemática Discreta (20% Av.):** Implementação de método numérico (ex.: algoritmo de ordenação/otimização de rotas ou simulação na estimativa de desperdício têxtil evitado) e análise estatística de dados na app.
 
----
+
 
 ________________________________________
 9. Planificação e Calendarização Inicial
