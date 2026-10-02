@@ -1,4 +1,4 @@
-# Grupo_Nueve
+# Grupo_NueveReware
 Projecto Mobile 2026 -App (Grupo Nuevé)
 
 **Nome do Projeto:** Nuevé ReWare
