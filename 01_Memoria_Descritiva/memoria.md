@@ -14,8 +14,11 @@ ________________________________________
   	A Nuevé ReWare é uma plataforma e aplicação móvel multidisciplinar que operacionaliza um modelo de economia circular no setor da moda. A aplicação permite que os utilizadores se desfaçam de peças de vestuário sem uso, submetendo fotografias e detalhes sobre o estado dos tecidos. A equipa de produção da marca analisa o potencial de reaproveitamento do material e, após a recolha/receção física, desconstrução e higienização, reutiliza as matérias-primas têxteis para criar novas peças de vestuário exclusivas (masculinas e femininas), comercializadas diretamente no catálogo integrado da aplicação.
 
 	***Problema a resolver***
+  	
   	**1. Impacto Ambiental da Fast Fashion e Desperdício Têxtil:** Milhares de toneladas de roupa em bom estado ou com tecidos aproveitáveis terminam em aterros sanitários devido à ausência de canais simples para o seu reaproveitamento direto.
+  	
   	**2.Custo Elevado de Matérias-Primas Têxteis Sustentáveis:** Marcas de moda ecológica enfrentam custos elevados na aquisição de tecidos reciclados ou orgânicos.
+  	
   	**3.Escassez de Peças Exclusivas e Sustentáveis a Preços Acessíveis:** Os consumidores conscientes procuram vestuário com identidade única e pegada ecológica reduzida, mas encontram pouca oferta transparente no mercado.
 
 ________________________________________
