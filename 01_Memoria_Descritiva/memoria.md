@@ -4,7 +4,7 @@ O **NuevéReWare** consiste numa solução móvel e plataforma web orientada à 
 ________________________________________
 2.	Palavras-Chave
    
-Upcycling Têxtil, Moda sustentável, Economia circular, Aplicação Móvel, Flutter, REST API, Reconhecimnento de imagem, validação por QR Code.
+Upcycling Têxtil, Moda sustentável, Economia circular, Aplicação Móvel, Flutter, REST API, Reconhecimento de imagem, validação por QR Code.
 
 ________________________________________
 
@@ -210,8 +210,7 @@ Com a conclusão da 1.ª Entrega, o grupo assegura o alinhamento conceptual da e
 ________________________________________
 11. Mockup feito no Figma
 
-Nosso Mockup disponível em : <https://www.figma.com/proto/wHsidw3Zp5Ly885REkCP52/Nuev%C3%A9-ReWare?node-id=3-7528&t=XbcvYFccUlbtVsew-1>
-
+![Mockups Nuevé ReWare](../02_Imagens/MockupNuevéReWare.png)
 ________________________________________
 12. Bibliografia
     
