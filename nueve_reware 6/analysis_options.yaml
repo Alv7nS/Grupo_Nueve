@@ -1,0 +1,4 @@
+# Regras de análise por defeito do Flutter (sem dependências externas).
+analyzer:
+  errors:
+    deprecated_member_use: ignore
