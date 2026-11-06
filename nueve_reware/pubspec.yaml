@@ -1,0 +1,23 @@
+name: nueve_reware
+description: Protótipo funcional da aplicação Nuevé ReWare (G03) — upcycling têxtil e moda sustentável.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^7.0.2   # mapa OpenStreetMap (instruções de entrega)
+  latlong2: ^0.9.1      # coordenadas para o flutter_map
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/donations/
+    - assets/images/products/
