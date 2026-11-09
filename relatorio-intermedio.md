@@ -1,12 +1,3 @@
-<!--
-INSTRUÇÕES (apagar antes de exportar):
-- Ficheiro: guardar no repositório como relatorio-intermedio.md (NÃO apagar a proposta v1).
-- Tudo o que está marcado com [PREENCHER] ou [CONFIRMAR] tem de ser verificado com a equipa.
-- Os diagramas Mermaid são renderizados automaticamente pelo GitHub. Para o PDF, exportar
-  também como imagem (https://mermaid.live) e guardar em 02_Imagens/.
-- Exportar para PDF com o nome: g03-relatorio-intermedio.pdf
--->
-
 # Nuevé ReWare — Relatório Intermédio (2.ª Entrega)
 
 **Plataforma Inteligente de Upcycling Têxtil e Comércio de Moda Sustentável**
@@ -14,7 +5,7 @@ INSTRUÇÕES (apagar antes de exportar):
 | | |
 |---|---|
 | **Universidade** | Universidade Europeia — IADE |
-| **Faculdade** | Faculdade de Design, Tecnologia e Comunicação (VADE) |
+| **Faculdade** | Faculdade de Design, Tecnologia e Comunicação (IADE) |
 | **Curso** | Licenciatura em Engenharia Informática — 3.º Semestre (2026/2027) |
 | **Projeto** | Nuevé ReWare |
 | **Grupo** | G03 — Nuevé |
