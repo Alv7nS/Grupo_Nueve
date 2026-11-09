@@ -1,3 +1,8 @@
+## Documentos
+- [Proposta v1](Documentos/g03-proposta-v1.pdf)
+- [Relatório Intermédio](Documentos/g03-relatorio-intermedio.pdf)
+
+
 # Grupo NuevéReware
 Projecto Mobile 2026 -App (Grupo Nuevé)
 
@@ -42,3 +47,5 @@ O repositório segue a estrutura oficial do briefing:
 * **Mobile App:** Ex: Flutter / React Native / Kotlin
 * **Backend:** Ex: Node.js / Firebase / Spring Boot
 * **Base de Dados:** Ex: PostgreSQL / MongoDB / SQLite
+
+
